@@ -3,4 +3,4 @@ Allow: /
 Disallow: /private/
 Disallow: /dashboard
 
-Sitemap: https://next-web-seo.netlify.app/sitemap-xml
+Sitemap: https://next-web-seo.netlify.app/sitemap.xml
